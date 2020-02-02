@@ -30,6 +30,10 @@ module.exports = {
         name: `Page`,
         link: `/page-2`
       },
+      {
+        name: `Jewelry`,
+        link: `/jewelry`
+      },
     ]
   },
   plugins: [
