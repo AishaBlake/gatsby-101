@@ -12,6 +12,16 @@ module.exports = {
         name: `GitHub`,
         url: `https://github.com/AishaBlake`
       }
+    ],
+    menuLinks: [
+      {
+        name: `Speaking`,
+        link: `/speaking`
+      },
+      {
+        name: `Page`,
+        link: `/page-2`
+      },
     ]
   },
   plugins: [
