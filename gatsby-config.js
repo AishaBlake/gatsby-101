@@ -15,6 +15,14 @@ module.exports = {
     ],
     menuLinks: [
       {
+        name: `Home`,
+        link: `/`
+      },
+      {
+        name: `Blog`,
+        link: `/blog`
+      },
+      {
         name: `Speaking`,
         link: `/speaking`
       },
